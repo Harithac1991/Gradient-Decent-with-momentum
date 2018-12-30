@@ -1,4 +1,4 @@
-# Gradient-Decent-with-momentum
+# MLP optimization using Gradient-Decent-with-momentum
 Experiment: What is the performance change when Gradient Decent adopts momentum in Multi Layer perceptron  parameter optimization
 
 Momentum is to speed up any process/movement. GD momentum is not the momentum we studied in physics.
